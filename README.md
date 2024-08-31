@@ -14,7 +14,7 @@ Software Developer and System Engineering student. 💻
 - 📄 Firebase
 
 #### Social media
-- 💼 LinkedIn: www.linkedin.com/in/yurleis-zuluaga-garcía/
+- 💼 LinkedIn: www.linkedin.com/in/yurleis-zuluaga-garc%C3%ADa-195079246/
 
 #### Languages
 - Spanish (Native)
