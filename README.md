@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, everyone 👋
+I'm Yurleis Zuluaga Garcia.
 
-<!--
-**YurleisZg/YurleisZg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+From Tiquisio Bolivar, Colombia. 🏖️
 
-Here are some ideas to get you started:
+Software Developer and System Engineering student. 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What language or technologies do I use?
+
+🤓 C# with dotnet
+💾 SQL (PostgreSQL)
+😼 Git & GitHub
+🎨 Javascript with react
+Social media
+
+💼 LinkedIn: www.linkedin.com/in/yurleis-zuluaga-garcía/
+Languages
+
+Spanish (Native)
+English
