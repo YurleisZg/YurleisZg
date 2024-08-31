@@ -11,6 +11,7 @@ What language or technologies do I use?
 💾 SQL (PostgreSQL)
 😼 Git & GitHub
 🎨 Javascript with react
+
 Social media
 
 💼 LinkedIn: www.linkedin.com/in/yurleis-zuluaga-garcía/
