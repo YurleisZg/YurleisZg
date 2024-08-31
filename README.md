@@ -14,6 +14,7 @@ What language or technologies do I use?
 Social media
 
 💼 LinkedIn: www.linkedin.com/in/yurleis-zuluaga-garcía/
+
 Languages
 
 Spanish (Native)
