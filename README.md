@@ -11,7 +11,6 @@ Software Developer and System Engineering student. 💻
 - 🛢 SQL
 - 😼 Git & GitHub
 - 🎨 React
-- 📄 Firebase
 
 #### Social media
 - 💼 LinkedIn: https://www.linkedin.com/in/yurleis-zuluagag/
