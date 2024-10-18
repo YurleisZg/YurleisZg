@@ -10,7 +10,7 @@ Software Developer and System Engineering student. 💻
 - 🤓 C# with .NET
 - 🛢 SQL
 - 😼 Git & GitHub
-- 🎨 React
+- 🎨 Vue
 
 #### Social media
 - 💼 LinkedIn: https://www.linkedin.com/in/yurleis-zuluagag/
